@@ -2,7 +2,7 @@
 
 Tris projects attempts to forecast model for MercadoLibre Stock prices, comparing search trends with stock movements.
 
-###Technologies
+### Technologies
 - Pandas
 - Hvplot
 - matplotlib
